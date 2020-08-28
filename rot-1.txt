@@ -1,0 +1,8 @@
+1. Get string from the user
+2. Get rotation key from the user
+3. Ask user if they would like to encrypt or decrypt 
+4.if user wants to decrypt use - else + 
+5. Create Cipher text 
+6. Apply Cipher (p[I] + key) %26
+7. Add to cipher text 
+Return text 
