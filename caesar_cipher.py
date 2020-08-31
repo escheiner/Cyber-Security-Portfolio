@@ -1,5 +1,7 @@
 #!/user/bin/python3
 
+#This script encrypts and decrypts messages using Caesar_Cipher
+
 #Get mode, messsage, and key from the user
 mode = input("Would you like to encrypt or decrypt? (encrypt or decrypt) ")
 message = input("Please enter your message: ")
