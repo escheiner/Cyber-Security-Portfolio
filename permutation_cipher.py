@@ -1,4 +1,6 @@
 #!/user/bin/python3
+#This script takes decrypts and encrypts text using a permutation cipher
+
 def permutation(key, mode):
     #alphabetize key
     sorted_key = "".join(sorted(key))
