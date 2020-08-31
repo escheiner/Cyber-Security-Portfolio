@@ -1,0 +1,27 @@
+Section 2 - Capability Maturity Model Integration (CMMI)
+The Capability Maturity Model Integration (CMMI) was originated by Carnegie Mellon University to improve project processes, divisions, or organizations. The Department of Defense and the U.S. government further developed CMMI; it has become a requirement for the Department of Defense and the U.S. governments' developmental software projects. The CMMI Institute operates CMMI. 
+
+The CMMI is a project and process model designed to help organizations streamline their processes, develop effective standards, decrease risk and ad-hoc development, and meet industry baselines.  The CMMI is more than a model to improve processes; it also boosts behaviors. The CMMI creates criterion, and quantitative measures determining the efficiency of the company. Additionally, it is focused on effective, and proactive performance. 
+
+The CMMI evaluates the productivity of an organization by breaking down organizational maturity into five different levels. The goal of CMMI is to raise the organization to level 5 - “optimizing” maturity level. Even once an organization reaches level 5, they must continue to maintain and improve the processes.  
+
+The CMMI’s five levels are as follows: 
+
+Initial - In this stage, the organization develops in an ad hoc mode. There are no defined processes for project development. At this stage, the organization gets the work done, but it is often delayed and over the budget. This is the most inefficient, and risk-prone mode in which a business can operate. Most startups start at this level and work from here to further optimize their operations.
+
+Managed - At this stage, all business projects are managed so that processes are “planned, performed, measured and controlled”. The most important aspect of this stage is ensuring that there is a steady flow of requirements, management, and accountability. There is a heavy focus on identifying stakeholders and rallying their support. 
+
+Defined - The next level of the CMMI model is when your organization has processes that are “well characterized and understood and are described in standards, procedures, tools, and methods,” At this stage processes are documented and well defined; there is a satisfactory sense of reliability and proactivity. Essentially, the difference between level 3 and level 4 is the detailed processes and consistency throughout the organization. 
+
+Quantitatively Managed - At the fourth maturity level, the organization “is controlled using statistical and other quantitative techniques, and is quantitatively predictable.”  The primary difference between level 3 and level four is the statistical methods and key performance indicators which the organization uses to formally assess and improve their operations. 
+
+Optimizing - At this final stage, the organization processes are constantly monitored and improved. Their processes are robust and flexible enough to support new technology and innovation. The company can now address changes confidently, and vary their solution and processes to support ever-changing business requirements. 
+
+An organization would want to consider adopting the CMMI because it helps organizations to establish reliable and effective work processes. Organizations will become extremely proactive as they mature and formalize processes, procedures, and policies. 
+
+Information security drivers should align to GRC objectives. A business unit manager may align their business processes to CMMI by constantly evaluating their performance, and improving their processes to become more effective. The first step to improvement is recognition of your strengths and weaknesses. The CMMI creates organizational-wide self-awareness. 
+
+Although the CMMI is integral to formalizing processes, behaviors, and procedures, it may not be suitable for every company. For a sole proprietorship, it may require more documentation, and increase overhead cost. Although it may make processes more reliable and consistent, it may slow down development time. Partnerships may benefit from adopting the CMMI structure because it will streamline processes between the different stakeholders, however, CMMI may require an extreme amount of time and effort to implement. It will also dramatically shift the culture and dynamics of the business. When the corporation is larger, these advantages and disadvantages will be magnified. CMMI can ensure on time delivery, cost savings, productivity, and much more, however, that will come at the large cost of shifting the organization personnel to those goals.
+ 
+Whether a company decides to strictly adopt the CMMI model, every organization will benefit by integrating the values that drive this model; productive and organized policies, procedures, and processes.
+
