@@ -1,1 +1,13 @@
-
+Network Learning Goals
+- OSI and TCP/IP model
+- Network routing
+- Network Address Translation (NAT)
+- netcat
+- Request for Comments (RFCs) 
+- Denial of Service, Distributed Denial of Service Attacks
+- Network protocols: Ethernet, 802.11 (WiFi), IP, UDP, TCP, ARP, DHCP, DNS, ICMP, BGP, SMTP, POP/IMAP, FTP, HTTP, IGMP,
+- Attacks on basic technologies: TCP hijacking, ARP cache poisoning and domain spoofing, as well as countermeasures
+- Sniffing and port scanning, firewalls
+- IDSes and NIDSes 
+- Wireless protocols and their security
+- AppSec with a focus on web security.
