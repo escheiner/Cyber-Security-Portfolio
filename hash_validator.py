@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#This script takes a key and a file of message /hash combinations, and then validates hashes, and prints invalid hashes. 
 
 import hmac 
 import sys
