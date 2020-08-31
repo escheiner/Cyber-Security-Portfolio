@@ -1,0 +1,22 @@
+Section 4 - GDPR SIA Partners
+ 
+The GDPR is the toughest privacy and security model in the world. It is drafted by the EU,  and it's laws apply to any organization inside or outside of the EU that handles EU information. 
+The penalties for violating the GDPR is very high. There are two tiers of penalties, which max out at €20 million or 4% of global revenue (whichever is higher), plus data subjects have the right to seek compensation for damages.
+The primary differences between privacy regulations in the US and the EU is that the US does not have any explicit general privacy laws. There are business domains that are governed by specific privacy laws, for example, organizations that are processing medical information, organizations that are processing credit card information must comply with PCI DSS etc. This means that information protected by the GDPR regulations may not be protected by US regulations. Essentially,  information protected by the GDPR will have different rules applied than information protected by the US government. If organizations process EU data, they must ensure that they are in compliance with GDPR regulations. 
+If an organization processes data they must go according to the seven accountability and protection principles outlined in article 5.1-2. Here are the 7 principles. 
+Lawfulness, fairness and transparency —Process data in a legal, fair, and transparent way.
+Purpose limitation —Only process data for legitimate and explicate purposes.
+Data minimization — Collect the minimum amount of data needed.
+Accuracy — Keep personal data accurate and up to date.
+Storage limitation — Get rid of data as soon as it is not necessary. 
+Integrity and confidentiality — Encrypt data  to ensure security, integrity, and confidentiality.
+Accountability —  The data controller should be able to demonstrate compliance with GDPR principles. 
+ 
+In addition to describing the laws and penalties for security and privacy regulations, the EU also defines some core roles, and the responsibilities of each one. 
+ 
+Data Controller - the data controller decides how personal data will be processed. This role refers to the individual who is the owner or the employee who handles data. The controller implements appropriate technical and organizational measures to ensure  compliance. 
+Data Custodian -the  data custodian is responsible for maintaining the data on the IT infrastructure. The Data Controller decided how the data will be processed and the Data Custodian keeps it going. 
+Data Subject - the data subject is defined as “identified or identifiable natural person[s].” This means that a data subject refers to the person whose data you are processing. 
+Data Protection Officer - the Data Protection Officer is a role required by the GDPR to oversee the organizations data protection policy, and ensure compliance with the GDPR regulatory requirements. It is not always necessary to appoint a DPO. There are three conditions when it is necessary: if you are a public authority; if your core activities require you to monitor people regularly; if your core activities "are large-scale processing of special categories of data listed under Article 9 of the GDPR or data relating to criminal convictions and offenses mentioned in Article 10".  Organizations may find it helpful to appoint a DPO even if they do not meet these conditions. 
+I would highly recommend any organization who is processing EU data to read and study the GDPR document. It is an essential document for an organization's strategy to protect sensitive data and information.  When the organization who processes EU data does not comply with the GDPR, they may face very heavy penalties.
+ 
