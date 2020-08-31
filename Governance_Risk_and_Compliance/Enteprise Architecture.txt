@@ -1,0 +1,19 @@
+Part 5 – Enterprise Architecture
+
+ Every organization must analyze, design, plan, and implement their enterprise analysis in order to successfully achieve business goals. Enterprise architecture is the practice of doing so to structure IT projects and policies to align with business strategies. EA also helps businesses stay on top of industry trends, using enterprise architecture planning. 
+
+EA was invented by Professor Dewey Walker in 1960. Zach Zachmann, one of Walker’s students, helped to collect and format these documents in a structured EA. Zachman published this framework in the IBM Systems Journal in 1987. The EA entered the scene in the 1980s, at the advent of the increase of business technology- companies realized that they would need a long term plan to support the rapid need of technology. EA is useful for large businesses going through a digital transformation. It brings legacy processes and applications together in a more seamless environment.
+
+There are many different EA frameworks. I will describe the primary frameworks. 
+
+TOGAF - it’s goals are to “ensure everyone speaks the same language, avoid lock-in to proprietary solutions by standardizing on open methods for enterprise architecture, save time and money, and utilize resources more effectively, and achieve demonstrable ROI”. TOGAF helps companies complete software technology in a structured way. It also helps to align business and technology, and streamline communication between key stakeholders. 
+
+NAF-  the goal of NAF “is to provide a standard for developing and describing architectures for both military and business use.”. NAF is focused on providing the rules, guidelines, and templates for developing and presenting architecture descriptions. It also provides the methodology, which includes core concepts, principles, and guidelines into EA development lifecycle model from accepted best practices. 
+
+UML - the UML architecture consists of diagraming classes, interfaces, and collaboration in order to represent real objects in the company. It is a way of aligning business policy to software by using a collection of diagrams to make a complete physical system. It is used to support the implementation policy. 
+
+SABSA-  The SABSA framework for delivering security infrastructure solutions that support business critical initiatives. The main aspect of SABSA is that all software must be developed from an analysis of the business requirements for security. There are six layers of the SABSA ranging from contextual architecture, conceptual architecture, logical architecture, physical architecture, component architecture and service management architecture. The sixth layer, the service management layer, is overlaid on the other five layers and further vertically analyzed to produce the five-by-six cell SABSA Service Management Matrix.
+
+FEAF - FEAF is an Enterprise Architecture framework specifically created for federal agencies to guide their policy, and streamline IT service to production. FEAF consists of a methodology, and various tools to provide for more effective procedures. Some examples of FEAF is “provide a common approach for IT acquisition, facilitate the sharing of information and resources, reduce costs, and improve citizen services.” The heart of FEAF is a Consolidated Reference Model  that provides the essential architecture elements.  
+
+If I was choosing a architectural framework, I would choose TOGAF over others, because it contains robust tools, such as common vocabulary, recommended standards and compliance methods,  and suggested software and tools. It is also an overarching process that helps guide businesses through any step of business organization. Finally, TOGAF holds the keys to creating an independent architecture by being an extremely flexible framework. 
